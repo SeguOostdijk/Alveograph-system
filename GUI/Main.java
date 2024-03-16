@@ -2,8 +2,7 @@ package GUI;
 
 public class Main {
     public static void main(String[] args) {
-        Mainwindow mw=new Mainwindow();
-        
+        MainWindow mw = new MainWindow();
     }
 
 }
